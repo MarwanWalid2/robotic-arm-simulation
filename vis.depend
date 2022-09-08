@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638632820 source:e:\cpe\assignments\ass 4\vis\vis\vis\main.cpp
+	<iostream>
+	<cmath>
+	<graphics.h>
+
